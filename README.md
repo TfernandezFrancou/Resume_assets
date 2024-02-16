@@ -6,3 +6,6 @@
 
 ## Certificados - Certificates
 <a href="https://www.freecodecamp.org/certification/TfernandezFrancou/responsive-web-design" target="_blank">Responsive Web Design</a>
+
+## Cartas de recomendación - Recomendation Letters
+<a href="./Carta de recomendacion MetroGAS.pdf" target="_blank">MetroGAS</a>
